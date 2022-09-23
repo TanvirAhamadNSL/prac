@@ -1,0 +1,208 @@
+{
+    "1.IQVIA 102-00184 Management Fee 2021.7月2_1_page_1_Border_Table_0_aug.jpg166016": {
+        "filename": "1.IQVIA 102-00184 Management Fee 2021.7月2_1_page_1_Border_Table_0_aug.jpg",
+        "size": 166016,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        14,
+                        2117
+                    ],
+                    "all_points_y": [
+                        14,
+                        13
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        13,
+                        2116
+                    ],
+                    "all_points_y": [
+                        720,
+                        719
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1664,
+                        2116
+                    ],
+                    "all_points_y": [
+                        836,
+                        836
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        12,
+                        2116
+                    ],
+                    "all_points_y": [
+                        905,
+                        904
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        16,
+                        14
+                    ],
+                    "all_points_y": [
+                        12,
+                        907
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        1666,
+                        1665
+                    ],
+                    "all_points_y": [
+                        12,
+                        905
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        2116,
+                        2115
+                    ],
+                    "all_points_y": [
+                        12,
+                        905
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1.IQVIA 102-00184 Management Fee 2021.7月2_1_page_1_Border_Table_1_aug.jpg21948": {
+        "filename": "1.IQVIA 102-00184 Management Fee 2021.7月2_1_page_1_Border_Table_1_aug.jpg",
+        "size": 21948,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        14,
+                        321
+                    ],
+                    "all_points_y": [
+                        12,
+                        13
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        14,
+                        321
+                    ],
+                    "all_points_y": [
+                        71,
+                        72
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        12,
+                        319
+                    ],
+                    "all_points_y": [
+                        283,
+                        285
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        15,
+                        13
+                    ],
+                    "all_points_y": [
+                        11,
+                        284
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        320,
+                        318
+                    ],
+                    "all_points_y": [
+                        12,
+                        286
+                    ]
+                },
+                "region_attributes": {
+                    "table_line": "line"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}

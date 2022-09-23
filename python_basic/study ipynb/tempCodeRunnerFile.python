@@ -1,0 +1,4 @@
+ds.union(1,2)
+# ds.union(3,1)
+# ds.union(4,3)
+# print(ds.find(4))
