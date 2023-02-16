@@ -1,0 +1,44 @@
+MATH (BLACK BOX IDEA):
+    Statistics: 1. Distribution(gaussian, polynomial.............), variance, STD, KLD, JSD, Expectation**
+                2. 1D gaussian
+                3. nD Gaussian
+                         - Trace
+                         - Variance
+                         - STD
+                4. Log probability
+                5. Negative log likelihood
+                6. sampling, Gibbs sampling, Negative sampling
+                7. Expectation Maximization
+
+    MATH: 1. Linear Algebra(EV, SVD, OLS, ........)
+          2. Differentiation , ODE
+
+    Applied Statistics: Markov Chain, MCMC
+
+    Image_processing: 1. Affine Transform , spatial transform, 
+                      2. Edge detection
+                      3. filter, Differentiation
+                      4. gaussian Distribution, laplacian distribution
+
+
+Vision :
+    Vision-1: ResNet
+    Vision-2: Dense_Net, U-Net, Mobile_Net, Auto_Encoder #undrerstand architecture and implementation.
+    Vision-3: MRCNN (RCNN_Family), YOLO, SSD_Net, GAN #Theory and inference and if possible implementation
+    Vision-4: Vision Transformer, Swin Transformer, Diffusion Model(Theory)
+
+NLP :
+    NLP-1: Word embedding, word to vec, TF-IDF, Continuous Bag of Words Model, Naive baies, Tokenizer 
+    NLP-2: LSTM, BiLSTM, GPU, BiLSTM(LSTM) + Attention - Task: 1. Sentence classfication
+                                                               2. Emotion detection
+    NLP-3: 1. Seq to Seq - 1. Text completion (BiLSTM(LSTM) + Attention), 
+                           2. auto text generation (BiLSTM(LSTM) + Attention)
+           2. NER(Bangla name entity detection)
+    NLP-4: 1. Machine Translation with Transformer
+           2. Text summarization(BERT type)
+    NLP-5: 1.Text generation with GPT
+           2. LLM(large language model)
+           3. Q&A
+
+LEARNING_SEQUENCE :
+MATH -> Vision-1 -> Vision-2 -> NLP-1 -> NLP-2 -> NLP-3 -> NLP-4 -> NLP-5 -> Vision -3 -> Vision -4
